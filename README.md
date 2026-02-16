@@ -31,11 +31,3 @@ The project follows **Clean Architecture** with clear separation of concerns:
 - **Presentation Layer (API):**  
   Exposes endpoints for CRUD operations.
 
----
-
-## 📂 Project Structure
-├── Domain/ # Entities and domain logic
-├── Application/ # Use cases and interfaces
-├── Infrastructure/ # EF Core, database context, migrations
-├── API/ # Controllers and API configuration
-├── README.md # Project documentation
